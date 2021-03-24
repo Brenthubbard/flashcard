@@ -1,0 +1,22 @@
+.card-text {
+  display: none;
+  color:black;
+  background-color: cornflowerblue;
+}
+.card{
+  width: 250px;
+  height:333px;
+  text-align: center;
+  background-color: rgb(235, 193, 29);
+}
+.card-title {
+  color: azure;
+  background-color: rgb(25, 121, 57);
+} 
+.jumbotron {
+  background-color: rgb(72, 72, 228);
+}
+.body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: darkgray;
+}
